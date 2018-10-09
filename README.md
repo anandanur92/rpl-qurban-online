@@ -23,3 +23,6 @@ $sequelize db:seed:all
 #run the server
 $node server.js
 ```
+
+#run anjeng
+#iyo iyo
